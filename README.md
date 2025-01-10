@@ -1,16 +1,16 @@
 # Funsphere 🎮
 
-Welcome to **Funsphere**, a vibrant hub of fun and interactive games you can enjoy directly in your browser! 🚀
+Welcome to **Funsphere**, where you can enjoy fun and interactive games directly in your browser!
 
-## 🌟 Features
-- A **menu page** to browse and select games with ease.
-- Exciting games, including:
-  - **Game 1**: A challenging puzzle game.
-  - **Game 2**: A fast-paced action adventure.
-  - **Game 3**: A classic arcade experience.
-- Modern, responsive design for seamless gameplay.
+## Features
+- Menu to select games.
+- Multiple games to play.
 
-## 🛠️ How to Use
-1. Visit the [Funsphere website](https://your-username.github.io/funsphere/) to access the menu.
-2. Explore the list of games available on the homepage.
-3. Click **Play Game** to dive into the game of your choice!
+## How to Use
+Visit: [https://your-username.github.io/funsphere/](https://your-username.github.io/funsphere/)  
+Select a game from the menu and start playing!
+
+## Games
+- **Game 1**: [Game 1 Link](game1.html)
+- **Game 2**: [Game 2 Link](game2.html)
+- **Game 3**: [Game 3 Link](game3.html)Enter file contents here
