@@ -11,6 +11,6 @@ Visit: [https://your-username.github.io/funsphere/](https://your-username.github
 Select a game from the menu and start playing!
 
 ## Games
-- **Game 1**: [Game 1 Link](game1.html)
+- **Game 1**: [SNAKE GAME](Snake-game.html)
 - **Game 2**: [Game 2 Link](game2.html)
-- **Game 3**: [Game 3 Link](game3.html)Enter file contents here
+- **Game 3**: [Game 3 Link](game3.html)
