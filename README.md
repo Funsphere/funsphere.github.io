@@ -1,2 +1,0 @@
-
-[CLICK TO GO IN THE REAL HOMEPAGE](homepage.html)
